@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Generic\bin\Debug\Generic.exe.config
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Generic\bin\Debug\Generic.exe
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Generic\bin\Debug\Generic.pdb
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Generic\obj\Debug\Generic.exe
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Generic\obj\Debug\Generic.pdb
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Generic\obj\Debug\Generic.csprojResolveAssemblyReference.cache

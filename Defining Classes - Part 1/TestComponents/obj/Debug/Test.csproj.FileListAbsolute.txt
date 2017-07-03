@@ -1,0 +1,9 @@
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\CallHistoryTest.cs\bin\Debug\CallHistoryTest.cs.exe.config
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\CallHistoryTest.cs\bin\Debug\CallHistoryTest.cs.exe
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\CallHistoryTest.cs\bin\Debug\CallHistoryTest.cs.pdb
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\CallHistoryTest.cs\bin\Debug\01.DefineClass.exe
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\CallHistoryTest.cs\bin\Debug\01.DefineClass.pdb
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\CallHistoryTest.cs\bin\Debug\01.DefineClass.exe.config
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\CallHistoryTest.cs\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\CallHistoryTest.cs\obj\Debug\CallHistoryTest.cs.exe
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\CallHistoryTest.cs\obj\Debug\CallHistoryTest.cs.pdb

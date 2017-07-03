@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Attribute\bin\Debug\Attribute.exe.config
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Attribute\bin\Debug\Attribute.exe
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Attribute\bin\Debug\Attribute.pdb
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Attribute\obj\Debug\Attribute.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Attribute\obj\Debug\Attribute.exe
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Attribute\obj\Debug\Attribute.pdb

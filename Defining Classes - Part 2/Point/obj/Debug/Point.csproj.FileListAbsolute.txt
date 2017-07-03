@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Defining Classes - Part 2\bin\Debug\Defining Classes - Part 2.exe.config
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Defining Classes - Part 2\bin\Debug\Defining Classes - Part 2.exe
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Defining Classes - Part 2\bin\Debug\Defining Classes - Part 2.pdb
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Defining Classes - Part 2\obj\Debug\Point.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Defining Classes - Part 2\obj\Debug\Defining Classes - Part 2.exe
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Defining Classes - Part 2\obj\Debug\Defining Classes - Part 2.pdb
