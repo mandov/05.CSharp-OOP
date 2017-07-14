@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\3.FirstBeforeLast\bin\Debug\3.FirstBeforeLast.exe.config
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\3.FirstBeforeLast\bin\Debug\3.FirstBeforeLast.exe
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\3.FirstBeforeLast\bin\Debug\3.FirstBeforeLast.pdb
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\3.FirstBeforeLast\obj\Debug\03.FirstBeforeLast.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\3.FirstBeforeLast\obj\Debug\3.FirstBeforeLast.exe
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\3.FirstBeforeLast\obj\Debug\3.FirstBeforeLast.pdb

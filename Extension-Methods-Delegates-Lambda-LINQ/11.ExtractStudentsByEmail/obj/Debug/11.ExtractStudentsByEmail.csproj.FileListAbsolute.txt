@@ -1,0 +1,9 @@
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\11.ExtractStudentsByEmail\obj\Debug\11.ExtractStudentsByEmail.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\11.ExtractStudentsByEmail\bin\Debug\11.ExtractStudentsByEmail.exe.config
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\11.ExtractStudentsByEmail\bin\Debug\11.ExtractStudentsByEmail.exe
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\11.ExtractStudentsByEmail\bin\Debug\11.ExtractStudentsByEmail.pdb
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\11.ExtractStudentsByEmail\bin\Debug\09.StudentGroups.exe
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\11.ExtractStudentsByEmail\bin\Debug\09.StudentGroups.pdb
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\11.ExtractStudentsByEmail\bin\Debug\09.StudentGroups.exe.config
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\11.ExtractStudentsByEmail\obj\Debug\11.ExtractStudentsByEmail.exe
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\11.ExtractStudentsByEmail\obj\Debug\11.ExtractStudentsByEmail.pdb

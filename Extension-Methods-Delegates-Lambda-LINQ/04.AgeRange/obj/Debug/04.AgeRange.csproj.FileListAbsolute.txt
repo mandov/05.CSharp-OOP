@@ -1,0 +1,9 @@
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\04.AgeRange\bin\Debug\04.AgeRange.exe.config
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\04.AgeRange\bin\Debug\04.AgeRange.exe
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\04.AgeRange\bin\Debug\04.AgeRange.pdb
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\04.AgeRange\bin\Debug\3.FirstBeforeLast.exe
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\04.AgeRange\bin\Debug\3.FirstBeforeLast.pdb
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\04.AgeRange\bin\Debug\3.FirstBeforeLast.exe.config
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\04.AgeRange\obj\Debug\04.AgeRange.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\04.AgeRange\obj\Debug\04.AgeRange.exe
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\04.AgeRange\obj\Debug\04.AgeRange.pdb

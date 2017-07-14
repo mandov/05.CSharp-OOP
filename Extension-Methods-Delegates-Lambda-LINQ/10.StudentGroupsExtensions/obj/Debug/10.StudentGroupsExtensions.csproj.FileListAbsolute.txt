@@ -1,0 +1,9 @@
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\10.StudentGroupsExtensions\bin\Debug\10.StudentGroupsExtensions.exe.config
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\10.StudentGroupsExtensions\bin\Debug\10.StudentGroupsExtensions.exe
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\10.StudentGroupsExtensions\bin\Debug\10.StudentGroupsExtensions.pdb
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\10.StudentGroupsExtensions\bin\Debug\09.StudentGroups.exe
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\10.StudentGroupsExtensions\bin\Debug\09.StudentGroups.pdb
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\10.StudentGroupsExtensions\bin\Debug\09.StudentGroups.exe.config
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\10.StudentGroupsExtensions\obj\Debug\10.StudentGroupsExtensions.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\10.StudentGroupsExtensions\obj\Debug\10.StudentGroupsExtensions.exe
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\10.StudentGroupsExtensions\obj\Debug\10.StudentGroupsExtensions.pdb

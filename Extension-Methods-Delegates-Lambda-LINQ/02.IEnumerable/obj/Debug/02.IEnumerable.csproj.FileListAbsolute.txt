@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\02.IEnumerable\bin\Debug\02.IEnumerable.exe.config
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\02.IEnumerable\bin\Debug\02.IEnumerable.exe
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\02.IEnumerable\bin\Debug\02.IEnumerable.pdb
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\02.IEnumerable\obj\Debug\02.IEnumerable.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\02.IEnumerable\obj\Debug\02.IEnumerable.exe
+C:\Users\Gabriel\Desktop\Telerik\05.CSharp-OOP\Extension-Methods-Delegates-Lambda-LINQ\02.IEnumerable\obj\Debug\02.IEnumerable.pdb
